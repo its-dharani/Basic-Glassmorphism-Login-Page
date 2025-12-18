@@ -9,3 +9,10 @@ The project focuses on clean layout, modern styling, and hover effects without u
 - Centered login container using Flexbox
 - Background image with gradient overlay
 - Custom icons using Boxicons
+  
+## Screenshots
+![Login Page Screenshot](https://github.com/its-dharani/Basic-Glassmorphism-Login-Page/blob/main/Glassmorphism%20Login%20UI.png?raw=true)
+
+## Live
+[Live Demo](https://its-dharani.github.io/Basic-Glassmorphism-Login-Page/)
+
